@@ -7,3 +7,5 @@ This UMIE dataset is used only for academic purposes. The re-distribution of thi
 Google Drive Link: https://drive.google.com/file/d/18pzcqnlExchidZaAnN95tegGSTsS5Ges/view?usp=sharing
 
 Baidu Cloud Link: https://pan.baidu.com/s/1FeGzv94DadF5S68paOLbiw  Passwords: jn9r
+
+Paper:"Unsupervised Representation Disentanglement Framework for Improved Visual Perception of Underwater Transportation Systems" is under review.
