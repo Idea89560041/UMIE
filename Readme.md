@@ -9,3 +9,5 @@ Google Drive Link: https://drive.google.com/file/d/18pzcqnlExchidZaAnN95tegGSTsS
 Baidu Cloud Link: https://pan.baidu.com/s/1FeGzv94DadF5S68paOLbiw
 
 Paper:"Unsupervised Representation Disentanglement Framework for Improved Visual Perception of Underwater Transportation Systems" and "Unsupervised Underwater Image Enhancement via Spatially-Correlative Diffusion Model" is under review.
+
+If you would like to use this dataset, please contact dlmu.p.l.zhu@gmail.com.
