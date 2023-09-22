@@ -8,6 +8,18 @@ Google Drive Link: https://drive.google.com/file/d/18pzcqnlExchidZaAnN95tegGSTsS
 
 Baidu Cloud Link: https://pan.baidu.com/s/1FeGzv94DadF5S68paOLbiw
 
-Paper:"Unsupervised Representation Disentanglement Framework for Improved Visual Perception of Underwater Transportation Systems" and "Unsupervised Underwater Image Enhancement via Spatially-Correlative Diffusion Model" is under review.
+If you use the dataset, please cite the following article:
+
+Zhu P, Liu Y, Xu M, et al. Unsupervised Multiple Representation Disentanglement Framework for Improved Underwater Visual Perception[J]. IEEE Journal of Oceanic Engineering, 2023.
+
+or bibtex version:
+
+@article{zhu2023unsupervised,
+  title={Unsupervised Multiple Representation Disentanglement Framework for Improved Underwater Visual Perception},
+  author={Zhu, Pengli and Liu, Yancheng and Xu, Minyi and Fu, Xianping and Wang, Ning and Liu, Siyuan},
+  journal={IEEE Journal of Oceanic Engineering},
+  year={2023},
+  publisher={IEEE}
+}
 
 If you would like to use this dataset, please contact dlmu.p.l.zhu@gmail.com.
