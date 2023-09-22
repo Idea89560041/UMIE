@@ -14,12 +14,18 @@ Zhu P, Liu Y, Xu M, et al. Unsupervised Multiple Representation Disentanglement 
 
 or bibtex version:
 
-@article{zhu2023unsupervised,\\
-  title={Unsupervised Multiple Representation Disentanglement Framework for Improved Underwater Visual Perception},\\
-  author={Zhu, Pengli and Liu, Yancheng and Xu, Minyi and Fu, Xianping and Wang, Ning and Liu, Siyuan},\\
-  journal={IEEE Journal of Oceanic Engineering},\\
-  year={2023},\\
-  publisher={IEEE}\\
+@article{zhu2023unsupervised,
+
+  title={Unsupervised Multiple Representation Disentanglement Framework for Improved Underwater Visual Perception},
+  
+  author={Zhu, Pengli and Liu, Yancheng and Xu, Minyi and Fu, Xianping and Wang, Ning and Liu, Siyuan},
+  
+  journal={IEEE Journal of Oceanic Engineering},
+  
+  year={2023},
+  
+  publisher={IEEE}
+  
 }
 
 If you would like to use this dataset, please contact dlmu.p.l.zhu@gmail.com.
